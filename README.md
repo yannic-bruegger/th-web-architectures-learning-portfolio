@@ -1,5 +1,5 @@
 # TH Köln - Web Technologien - Lernportfolio
-Dieses Lernportfolio ist Teil der Modulprüfung im Moful Web Technologies and der TH Köln im Studiengang Medieninformatik (Master). Es beinhaltet kurze Zusammenfassungen der Seminartermine und alle selbstständig erarbeiteten Ergebnisse.
+Dieses Lernportfolio ist Teil der Modulprüfung im Modul *Web Architekturen* and der [*TH Köln*](www.th-koeln.de) im Studiengang *Medieninformatik (Master)* mit Schwerpunkt *Weaving the Web*. Es beinhaltet kurze Zusammenfassungen der Seminartermine und alle selbstständig erarbeiteten Ergebnisse.
 
 ## Aufgaben und Ergebnisse
 Diese Sammlung von Links verweist direkt auf Ergebnisse von Aufgaben. Alternativ kann auch unter [Vorlesungstermine](#vorlesungstermine) eine Liste gefunden werden, die nach Terminen Gruppiert.
