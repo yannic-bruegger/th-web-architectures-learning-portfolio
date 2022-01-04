@@ -5,7 +5,7 @@ Dieses Lernportfolio ist Teil der Modulprüfung im Modul *Web Architekturen* and
 Diese Sammlung von Links verweist direkt auf Ergebnisse von Aufgaben. Alternativ kann auch unter [Vorlesungstermine](#vorlesungstermine) eine Liste gefunden werden, die nach Terminen Gruppiert.
 
 ### Themenvorstellung
-- [Vorstellung zwei Eigener Web-Projekte](vorstellung-eigene-projekte.md)
+- [Vorstellung zwei eigener Web-Projekte](vorstellung-eigene-projekte.md)
 - [Vorstellung einer Technologie, Konzept oder Pattern das einem bereits geholfen hat]()
 - [Vorstellung einer Technologie, Konzept oder Pattern das noch nicht verwendet wurde]()
 - [Vorstellung einer Technologie, Konzept oder Pattern in Verbindung mit einem wissenschaftlichen Paper]()
