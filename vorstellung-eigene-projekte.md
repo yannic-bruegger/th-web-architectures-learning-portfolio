@@ -39,7 +39,9 @@ Tech stack:
   - Mocha
   - Docker
 ### Chronometer
+
 ![multiple polyeder](images/chronometer.png)
+
 Chronometer ist ein Praxisprojekt des Informatikstudiums (Bachelor) an der TH Köln. Es wurde in Kooperation mit der [VOSS Automotive GmbH](https://www.voss-automotive.net/index.html)(VOSS) geplant und durchgeführt.
 
 Die IT-Abteilung von VOSS hat ca. 80 MitarbeiterInnen die alle an Projekten arbeiten. Damit das Projektmanagement-Team dieser Projekte fundierte Entscheidungen auf basis von Fakten treffen kann, werden im Lebenszyklus eines Projhektes immer wieder Daten erfasst. Dazu zählen auch Time-Tracking-Daten, bei denen die MitarbeiterInnen ihre Arbeitszeiten an einem Projekt protokollieren. Das passiert bislang über ein älteres Softwaresystem, das einen recht hohen Mehraufwand zum Erfassung von Arbeitszeiten für die MitarbeiterInnen bedeutet. Dadurch kommt es vor, dass MitarbeiterInnen es bevorzugonen einmal pro Woche oder einmal pro Monat die Arbeitszeiten zu schätzen statt sie direkt einzutragen. Diese Schätzungen führen zu Ungenauigkeiten und verfälschen die Informationsbasis, auf der das Projektmanagement seine Entscheidungen begründet. 
