@@ -1,5 +1,5 @@
-# th-web-architectures-learning-portfolio
-A learning portfolio for the course Web Architectures at TH Köln (Master Media Informatics: Weaving the Web) in german.
+# TH Köln - Web Technologien - Lernportfolio
+Dieses Lernportfolio ist Teil der Modulprüfung im Moful Web Technologies and der TH Köln im Studiengang Medieninformatik (Master). Es beinhaltet kurze Zusammenfassungen der Seminartermine und alle selbstständig erarbeiteten Ergebnisse.
 
 ## Aufgaben und Ergebnisse
 Diese Sammlung von Links verweist direkt auf Ergebnisse von Aufgaben. Alternativ kann auch unter [Vorlesungstermine](#vorlesungstermine) eine Liste gefunden werden, die nach Terminen Gruppiert.
