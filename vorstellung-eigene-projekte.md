@@ -15,6 +15,9 @@ Vortragsdauer: ~10min
 ## Ergebnisse
 
 ### Cranach Cross Fade
+
+![multiple polyeder](images/cda.png)
+
 Das Projekt *Cranach Cross Fade*  ist ein im ersten Semester der Medieninformatik Masters durchgeführtes Projekt. Es ist Teil des Studienverlaufplans und eine Prüfungsleistung. Die Projektidee wurde von einem anderen Team aus vorherigen Semestern in Kooperation mit Professor Christin Noss und dem [Cranach Digital Archive](https://lucascranach.org/) (CDA) entworfen und sollte dann technisch geplant und implementiert werden. 
 
 Das CDA stellt auf ihrer Website hochauflösende Aufnahmen von Werken von Lucas Cranach und seiner Familie und Werkstatt bereit. Kunstwissenschaftler und Kunstinteressierte haben dort die möglichkeit diese Hochauflösenden Aufnahmen einzeln zu betrachten. Zu den verschiedenen Aufnahmen eines Werks können auch Infrarot- und Röntgen-Aufnahmen zählen. Außerdem können sich Aufnahmen, die zu einer anderen Zeit aufgenommen wurden unterschieden. 
