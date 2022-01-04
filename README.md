@@ -22,16 +22,16 @@ Diese Sammlung von Links verweist direkt auf Ergebnisse von Aufgaben. Alternativ
 ## Vorlesungstermine
 Die folgenden Links sind chronologisch sortiert und führen zu kurzen Protokollen der Seminare mit den entsprechenden Aufgaben und Ergebnissen
 
-- [07.10.2021](2021-10-07.md)
-- [14.10.2021](2021-10-14.md)
-- [21.10.2021](2021-10-21.md)
-- [28.10.2021](2021-10-28.md)
-- [04.11.2021](2021-11-04.md)
-- [18.11.2021](2021-11-18.md)
-- [25.11.2021](2021-11-25.md)
-- [02.12.2021](2021-12-02.md)
-- [09.12.2021](2021-12-09.md)
-- [16.12.2021](2021-12-16.md)
+- [Bericht zu 07.10.2021](2021-10-07.md)
+- [Bericht zu 14.10.2021](2021-10-14.md)
+- [Bericht zu 21.10.2021](2021-10-21.md)
+- [Bericht zu 28.10.2021](2021-10-28.md)
+- [Bericht zu 04.11.2021](2021-11-04.md)
+- [Bericht zu 18.11.2021](2021-11-18.md)
+- [Bericht zu 25.11.2021](2021-11-25.md)
+- [Bericht zu 02.12.2021](2021-12-02.md)
+- [Bericht zu 09.12.2021](2021-12-09.md)
+- [Bericht zu 16.12.2021](2021-12-16.md)
 
 
 ## Zusätzliche Links
