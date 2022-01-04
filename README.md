@@ -20,7 +20,7 @@ Diese Sammlung von Links verweist direkt auf Ergebnisse von Aufgaben. Alternativ
 - [Literaturarbeit: *CONTRACT FOR THE WEB*]()
 
 ## Vorlesungstermine
-Die folgenden Links sind Chronologisch sortiert und führen zu kurzen Protokollen der Seminare mit den entsprechenden Aufgaben und Ergebnissen
+Die folgenden Links sind chronologisch sortiert und führen zu kurzen Protokollen der Seminare mit den entsprechenden Aufgaben und Ergebnissen
 
 - [07.10.2021](2021-10-07.md)
 - [14.10.2021](2021-10-14.md)
