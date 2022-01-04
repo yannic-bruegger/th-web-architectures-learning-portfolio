@@ -1,7 +1,5 @@
 # Vorstellung zwei eigener Projekte
 
-## Aufgabenstellung
-
 **Zum [14.10.2021](2021-2021-10-14.md)**
 
 Vorstellung 2 eigener Web-Projekte (Studium, Arbeit, Privat)
