@@ -1,5 +1,5 @@
 # TH Köln - Web Technologien - Lernportfolio
-Dieses Lernportfolio ist Teil der Modulprüfung im Modul *Web Architekturen* and der [*TH Köln*](www.th-koeln.de) im Studiengang *Medieninformatik (Master)* mit Schwerpunkt *Weaving the Web*. Es beinhaltet kurze Zusammenfassungen der Seminartermine und alle selbstständig erarbeiteten Ergebnisse.
+Dieses Lernportfolio ist Teil der Modulprüfung im Modul *Web Architekturen* and der [*TH Köln*](https://www.th-koeln.de) im Studiengang *Medieninformatik (Master)* mit Schwerpunkt *Weaving the Web*. Es beinhaltet kurze Zusammenfassungen der Seminartermine und alle selbstständig erarbeiteten Ergebnisse.
 
 ## Aufgaben und Ergebnisse
 Diese Sammlung von Links verweist direkt auf Ergebnisse von Aufgaben. Alternativ kann auch unter [Vorlesungstermine](#vorlesungstermine) eine Liste gefunden werden, die nach Terminen Gruppiert.
@@ -35,5 +35,5 @@ Die folgenden Links sind chronologisch sortiert und führen zu kurzen Protokolle
 
 
 ## Zusätzliche Links
-Diese Links haben nicht direkt mit dem Lernportfolio zu tun. Sie verweisen auf externe Inhalte, deren Inhalt aber ggf. interessant sein könnte.
+Diese Links haben nicht direkt mit dem Lernportfolio zu tun. Sie verweisen auf externe Inhalte, die ggf. interessant sein könnten.
 - [Beiboot-Projekt auf GitHub Classroom](https://github.com/TH-Koeln-MMI/beiboot-gruppe-1)
