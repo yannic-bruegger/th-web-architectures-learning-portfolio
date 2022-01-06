@@ -1,4 +1,4 @@
-# Vorstellung zwei eigener Projekte
+# Vorstellung: Zwei eigene Projekte
 
 **Zum [14.10.2021](2021-2021-10-14.md)**
 
