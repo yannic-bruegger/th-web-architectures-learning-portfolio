@@ -43,10 +43,21 @@ Um die ständig wechselnden und entstehenden Anforderungen nachträglich in den 
 Während klassiche Softwarearchitektur erstmal nur den Build-Step im Lebenszyklus einer Software betrachtet, sollten bei Continuous Architecture auch die Test und Deploy Schritte betrachtet werden. Es können besondere Anforderungen für diese anderen Prozessschritte existieren. User Stories helfen diese zu identifizieren. In der Praxis könnten diese Anforderungen durch den Einsatz von APIs und Service Virtualisierung (Containerisierung) erreicht werden.
 
 - **Prinzip 6: Teamorganisation nach Architektur**<br>
-  
+Bei der Betrachtung des Teams ist es wichtig Prinzip 5 zu beachten. Personen aus Build/Design sind genauso wichtig wie aus Test und Deploy. Zusammenarbeit ist ein Schlüsselprinzip für Continuous Architecture. Nach Conways Law sollten die Teams nicht in Front-End; Back-End; Datenbanken usw eingeteilt werden. Um Kommunikation zu verbessern sollten Teams nach Fähigkeiten oder Produkt-Feature erstellt werden.
 
-
-
+## Kapitel 4: Evolving the Architecture
+- ArchitektInnen sollten nicht Diagramme, Modelle oder einen Prototypen als ihre Hauptaufgabe sehen. Viel zentraler sind ihre Architekturentscheidungen (Architecture Decisions).
+- Eine Architekturentscheidung beinhaltet
+  - Alle Einschränkungen, die sie definiert
+  - Auswirkung (auch auf die qualitativen Anforderungen)
+  - Alle Optionen, die zu Verfügung standen
+  - Der Entscheidungsweg, warum eine option gewählt wurde
+- Architekturentscheidungen können übergreifend dokumentiert und visualisiert werden, sodass die Entschiedungen erst getroffen werden müssen, wenn alle Fakten klar sind. Erstellung eines öffentlich sichtbaren **Architecture Backlogs**. 
+- Architekturentscheidungn können an die umsetzenden Teams abgegebn werden. Auch hier ist Kommunikation ein zentraler Faktor.
+- Architekturentscheidungen können und sollten Priorisiert werden. Dabei hilft gegebenenfalls **Quality Function Deployment** (QFD), eine Six Sigma Technik. Dabei werden allen Anforderungen gewichtete Benefits zugeordnet. Eine Zuordnung bzw ein Zusammenhang kann STARK, MODERAT und SCHWACH sein. Die Anforderung mit dem höchsten Score erhält entsprechend Priorität 1. Siehe Abbildung. Das Buch führt weiterhin eine komplette Erstellung einer QFD auf.
+![QFD Beispiel](images/qfd.png)
+- Transitionen zwischen zwei Architekturen / Zuständen sind zu beschreiben. Eine Methode zur Beschreibung des Wegs ist es, zusätzliche Transitions-Zustände zu modelieren. Ein Transitionszustand ist immer der mittlere Zustand zwischen zwei Zuständen. Diese Methode lässt sich rekursiv beliebig anwenden, was einen beliebig detailliertes Ergebnis erzeugen kann.  
+- Das Modell von Plateaus und Wellen ist das Pendant zu Sprints. Plateaus müssen erreicht werden, in denen das Softwaresystem funktioniert. Dazwischen können mit Hilfe von Waves Änderungen implementiert werden. In einer Wave werden einzelne Komponenten ausgetauscht. Auch hierzu bietet das Buch eine komplette Planerstellung an einem praktischen Beispiel.
 ## Glossar
 ### Software product management
 > Software product management is the process of managing
