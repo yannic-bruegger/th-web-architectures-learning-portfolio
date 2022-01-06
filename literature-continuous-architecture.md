@@ -33,12 +33,17 @@ Produkte stellen eine Stufe der Komplexität dar, die zwischen Projekten und Ent
 - **Prinzip 2: Fokus auf Qualität**<br>
 Aus dem Anforderungskatalog werden die nicht funktionalen (qualitative) den funktionalen Anforderungen bevorzugt. Diese sind besonders wichtig, da sie von der Architektur besonders abhängig sind. Eine Architektur muss möglichst die Gesamtheit der qualitativen Anforderungen berücksichtigen, nicht nur die wichtigsten. Oft wirkt sich nämlich eine Architekurentscheidung positiv auf die eine und negative auf die andere Anforderung aus. Siehe: Architecture Tradeoff Analysis Method (ATAM)
 - **Prinzip 3: Möglichst späte Designentscheidungen**<br>
+Funktionale Anforderungen ändern sich zu beginn eines Projekts noch sehr häufig. Designentscheidungen sollten nur und erst dann getroffen werden, wenn die Fakten bekannt sind. Das Prinzip gilt auch für qualitative Anforderungen.
 
-- **Prinzip 4: Produktsicht**<br>
+- **Prinzip 4: Anpassungsfähigkeit**<br>
+Um die ständig wechselnden und entstehenden Anforderungen nachträglich in den Architekturentwurf einarbeiten zu können, werden bestimmte Vorgehensweisen benötigt. Es werden die Prinzipien der losen Kopplung und hohe Kohäsion an die Systemkomponenten gestellt. Ändert sich eine Anforderung wird eine bestehende Komponente nicht aktualisiert, sondern durch eine neue ersetzt. Das geht durch die hohe Unabhängigkeit aller komponenten. Siehe: Microservices
 
-- **Prinzip 5: Produktsicht**<br>
 
-- **Prinzip 6: Produktsicht**<br>
+- **Prinzip 5: Build, Test, Deploy**<br>
+Während klassiche Softwarearchitektur erstmal nur den Build-Step im Lebenszyklus einer Software betrachtet, sollten bei Continuous Architecture auch die Test und Deploy Schritte betrachtet werden. Es können besondere Anforderungen für diese anderen Prozessschritte existieren. User Stories helfen diese zu identifizieren. In der Praxis könnten diese Anforderungen durch den Einsatz von APIs und Service Virtualisierung (Containerisierung) erreicht werden.
+
+- **Prinzip 6: Teamorganisation nach Architektur**<br>
+  
 
 
 
@@ -53,6 +58,8 @@ and service in order to generate biggest possible value to the
 business. This is in contrast to software that is delivered in an ad
 hoc manner, typically to a limited clientele, e.g. service.
 
+### Architecture Tradeoff Analysis Method (ATAM)
+### Microservices
 
 <details>
   <summary>Nicht mehr verwendete Zusammenfassungen</summary>
