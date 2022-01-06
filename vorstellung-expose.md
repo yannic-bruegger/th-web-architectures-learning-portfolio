@@ -1,0 +1,1 @@
+![Exposé](images/graphql.png)
