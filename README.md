@@ -2,7 +2,7 @@
 Dieses Lernportfolio ist Teil der Modulprüfung im Modul *Web Architekturen* and der [*TH Köln*](https://www.th-koeln.de) im Studiengang *Medieninformatik (Master)* mit Schwerpunkt *Weaving the Web*. Es beinhaltet kurze Zusammenfassungen der Seminartermine und alle selbstständig erarbeiteten Ergebnisse.
 
 ## Aufgaben und Ergebnisse
-Diese Sammlung von Links verweist direkt auf Ergebnisse von Aufgaben. Alternativ kann auch unter [Vorlesungstermine](#vorlesungstermine) eine Liste gefunden werden, die nach Terminen Gruppiert.
+Diese Sammlung von Links verweist direkt auf Ergebnisse von Aufgaben. Alternativ kann auch unter [Vorlesungstermine](#vorlesungstermine) eine Liste gefunden werden, die nach Terminen Gruppiert. Es sind allerdings nicht alle Protokolle zu allen Vorlesungen verfügbar.
 
 ### Themenvorstellung
 - [Vorstellung zwei eigener Web-Projekte](vorstellung-eigene-projekte.md)
@@ -21,6 +21,10 @@ Diese Sammlung von Links verweist direkt auf Ergebnisse von Aufgaben. Alternativ
 
 ## Vorlesungstermine
 Die folgenden Links sind chronologisch sortiert und führen zu kurzen Protokollen der Seminare mit den entsprechenden Aufgaben und Ergebnissen
+<details>
+<summary>
+Termine
+</summary>
 
 - [Bericht zu 07.10.2021](2021-10-07.md)
 - [Bericht zu 14.10.2021](2021-10-14.md)
@@ -32,6 +36,7 @@ Die folgenden Links sind chronologisch sortiert und führen zu kurzen Protokolle
 - [Bericht zu 02.12.2021](2021-12-02.md)
 - [Bericht zu 09.12.2021](2021-12-09.md)
 - [Bericht zu 16.12.2021](2021-12-16.md)
+</details>
 
 
 ## Zusätzliche Links
