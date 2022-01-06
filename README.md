@@ -16,7 +16,7 @@ Diese Sammlung von Links verweist direkt auf Ergebnisse von Aufgaben. Alternativ
 - [Litearaturarbeit: *Event Streams in Action : Real-time Event Systems with Kafka and Kinesis*](literature-kafka.md)
 - [Litearturarbeit: *Continuous architecture : Sustainable architecture in an agile and cloud-centric world*](literature-continuous-architecture.md)
 - [Literaturarbeit: *Four Internets: The Geopolitics of Digital Governance*](literature-geo.md)
-- [Literaturarbeit: *Researching Internet Governance: Methods, Frameworks, Futures*]()
+- [Literaturarbeit: *Researching Internet Governance: Methods, Frameworks, Futures*](literature-governance.md)
 - [Literaturarbeit: *CONTRACT FOR THE WEB*](literature-contract-for-the-web.md)
 
 ## Vorlesungstermine
