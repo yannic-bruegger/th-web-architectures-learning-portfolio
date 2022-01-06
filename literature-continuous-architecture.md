@@ -6,14 +6,41 @@
 
 In dieser Literaturaufgabe sollten die Kapitel 1, 2 und 4 des Buches *Continuous Architecture : Sustainable Architecture in an Agile and Cloud-Centric World* gelesen und diskutiert werden.
 
-## Kernaussagen
-Hier sind die Kernaussagen der Literatur und eigene Ideen übergreifend zusammengefasst. Für mehr Details werden die einzelnen Kapitel im Folgenden beschreiben.
-
-- Die Rolle SoftwarearchitektIn ist eine wichtige Rolle in Softwareprojekten. Unabhängig ob es sich um Enterprise-Anwendungen oder einfache Softwarelösungen handelt.
-- Softwarearchitekten entwerfen Modelle und Pläne. Modelle beschreiben wie eine IT-Landschaft vorher und nachher aussehehn soll. Pläne beschreiben den Weg, wie von dem einem Modell zu einem anderen gelangt werden kann. Modelle und Pläne sollen verschiedene Gruppen von Stakeholdern (sowohl Business, als auch Technologie) helfen, die technsichen Aufgaben und Umstände zu verstehen und haben deshalb einen auf die Zielgruppe zugeschnittene Vsualisierung und Detailgrad.
-- Continuous Architecture ist ein Ansatz der die Vorteile der gut durchdachten Enterprise Architekturen mit der 
+Hier sind die Kernaussagen der einzelnen Kapitel und eigene Ideen dazu zusammengefasst. 
 
 ## Kapitel 1: Introduction to Continuous Architecture
+
+- Die Rolle SoftwarearchitektIn ist eine wichtige Rolle in Softwareprojekten. Unabhängig ob es sich um Enterprise-Anwendungen oder einfache Softwarelösungen handelt.
+- **Aufgaben** von SoftwarearchitektInnen Softwarearchitekten entwerfen Modelle und Pläne. Modelle beschreiben wie eine IT-Landschaft vorher und nachher aussehehn soll. Pläne beschreiben den Weg, wie von dem einem Modell zu einem anderen gelangt werden kann. Modelle und Pläne sollen verschiedene Gruppen von Stakeholdern (sowohl Business, als auch Technologie) helfen, die technsichen Aufgaben und Umstände zu verstehen und haben deshalb einen auf die Zielgruppe zugeschnittene Vsualisierung und Detailgrad.
+- Die drei primären Hürden von Softwarearchitketur heute sind:
+  - Zu starker technischer Fokus; Zu wenig Fokus auf Business und Geschäftsprozesse Fokus.
+  - Es besteht die Wahrnehmung, dass SoftwarearchitektInnen keine Lösungen abliefern bzw. keinen Wert im Softwareentwicklungsprozess beisteuern. Das liegt besonders daran, dass Enterpise ArchitektInnen einen Fokus auf das große Ganze haben und ihre Modelle oft wenig nutzen für die tatsächliche Umsetzung bieten.
+  - Architekturmethoden können mit der steigenden Geschwindigkeit von Anforderungen und Anforderungsänderungen nicht mithalten
+- **Continuous Architecture** ist ein Ansatz der die Vorteile der gut durchdachten Enterprise Architekturen mit der dynamik der agilen Softwareentwicklung vereint. Bislang gibt es keinen zufriedenstellenden Ansatz in der Softwarearchitektur mit den agilen Anforderungen (beispielsweise von Continuous Delivery) mithalten kann.
+- Continuous Architecture ist eine **Sammlung von Methoden, Werkzeugen und Prinzipien**, die Softwarearchitekten auf ihren Projektkontext anwenden können.
+- Continuous Architecture folgt **6 Prinzipien**:
+  - Entwirf Produkte, keine Lösungen für Projekte.
+  - Fokussiere qualitative Anforderungen, nicht funktionelle
+  - Treffe Designentscheidungen erst dann, wenn sie absolut nötig sind
+  - Entwirf einfach austauschbare Systeme
+  - Betrachte neben der Softwareerstellung (Build) auch Testing und Deployment
+  - Organisiere das Team so, dass es den Architekturentwürfen entspricht.
+
+## Kapitel 2: Principles of Continuous Architecture
+
+- **Prinzip 1: Entwerfen von Produkten**<br>
+Produkte stellen eine Stufe der Komplexität dar, die zwischen Projekten und Enterprise Systemen liegt. Ein Produkt ist strategischer als ein Projekt. Es bezieht sich mehr auf die Business-Ziele der Organisation, als es ein Projekt macht. Außerdem ist ein Produkt nicht Zeitlich begrenzt, wie es bei Projekten der Fall ist. Es unterliegt stärkeren Anforderungsänderungen als Enterprise-Systeme, was sie deutlich dynamischer und/oder agiler macht. Es werden bei Produkten die AnwenderInnen, die Business-Ziele und die technologische Sicht vereint. Es muss ein ordentliches [Produktmanagement](#software-product-management) etabliert werden.
+- **Prinzip 2: Fokus auf Qualität**<br>
+Aus dem Anforderungskatalog werden die nicht funktionalen (qualitative) den funktionalen Anforderungen bevorzugt. Diese sind besonders wichtig, da sie von der Architektur besonders abhängig sind. Eine Architektur muss möglichst die Gesamtheit der qualitativen Anforderungen berücksichtigen, nicht nur die wichtigsten. Oft wirkt sich nämlich eine Architekurentscheidung positiv auf die eine und negative auf die andere Anforderung aus. Siehe: Architecture Tradeoff Analysis Method (ATAM)
+- **Prinzip 3: Möglichst späte Designentscheidungen**<br>
+
+- **Prinzip 4: Produktsicht**<br>
+
+- **Prinzip 5: Produktsicht**<br>
+
+- **Prinzip 6: Produktsicht**<br>
+
+## Nicht mehr verwendete Zusammenfassungen:
 
 Die Rolle der SoftwarearchitektInnen ist, wie viele andere Rollen in der Softwareentwicklung, nicht genau definiert. Oft werden SoftwarearchitektInnen als eine überflüssige Rolle angesehen. Die etwas zynische Frage: "Was machen/können SoftwarearchitektInnen, was EntwicklerInnen nicht könnten?" wird indirekt gestellt.
 
@@ -32,3 +59,14 @@ Es wird auch die historische Perspektive von Softwarearchitekturen betrachtet. D
 ![Technologie- und Architektur-Zeitleiste](images/technology-and-architecture-timeline.png)
 
 Zwischen agilen EntwicklerInnen, die frühstmögliche Umsetzung der Anfordeungen bevorzugen wollen und Enterprise ArchitektInnen, die einen möglichst 
+
+## Glossar
+### Software product management
+> Software product management is the process of managing
+software that is built and implemented as a product, taking into
+account life-cycle considerations and generally with a wide
+audience. It is the discipline and business process which governs
+a product from its inception to the market or customer delivery
+and service in order to generate biggest possible value to the
+business. This is in contrast to software that is delivered in an ad
+hoc manner, typically to a limited clientele, e.g. service.
