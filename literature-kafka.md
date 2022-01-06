@@ -43,3 +43,15 @@ Es ist anzumerken, dass ausschließlich auf Kafka als Event-Stream-Plattform ein
 
 Das Thema Event-Streams war für mich komplett neu. Es ist ein sehr interessanter Ansatz für den Informationsfluss in mittelgroßen und großen Unternehmen. Besonders praktisch ist, dass Events nach und nach in den Event-Stream übernommen werden können.
 
+## Kapitel 3: The unified log
+
+Kapitel 3 beschreibt, wie Event-Streams verarbietet werden können.
+
+- **Single event processing** <br>
+Jedes Event wird einzeln der Reihe nach verarbeitet. Transformationsmöglichkeiten sind Validierungen, Erweiterung des Events und Filter.
+- **Multi event processing** <br>
+Mehrere Event werden gleichzeitig verarbeitet. Verarbeitungsmöglichkeiten sind in dem Fall zum Beispiel Aggregating, Pattern Matching und Sortierung.
+- **Complex event processing** <br>
+Wird im Buch leider nicht weiter beschrieben.
+
+Diese Verarbeitungsmethoden helfen besonders im Data-Science anwendungsbereich. So können automatisiert die Daten aufbereitet werden was in der Data Science ansonsten ein sehr aufwendiger Schritt wäre.
