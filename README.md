@@ -6,7 +6,7 @@ Diese Sammlung von Links verweist direkt auf Ergebnisse von Aufgaben. Alternativ
 
 ### Themenvorstellung
 - [Vorstellung zwei eigener Web-Projekte](vorstellung-eigene-projekte.md)
-- [Vorstellung einer Technologie, Konzept oder Pattern das einem bereits geholfen hat](vorstellung-used.md)
+<!-- - [Vorstellung einer Technologie, Konzept oder Pattern das einem bereits geholfen hat](vorstellung-used.md) -->
 - [Vorstellung einer Technologie, Konzept oder Pattern das noch nicht verwendet wurde](vorstellung-unused.md)
 - [Vorstellung einer Technologie, Konzept oder Pattern in Verbindung mit einem wissenschaftlichen Paper](vorstellung-paper.md)
 - [Vorstellung des Exposés zum Vertiefungsthema (NOT YET FINISHED)](vorstellung-expose.md) 
