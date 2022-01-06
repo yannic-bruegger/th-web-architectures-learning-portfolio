@@ -20,9 +20,11 @@ Im Zusammenhang mit dezentralisierten Technologien immer wieder genannt werden d
 Verschlüsselung im Internet ist noch nicht in allen Bereichen im Einsatz. P2P setzt *grundlegend* auf kryptographische Verfahren, da die rohen Daten in dezentralisierten Softwaresystemen öffentlich zugänglich sind.
 
 **Was sind die Kernaspekte?** <br>
-Architekturentwurf
-Kommunikation direkt mit dem Kommunikationspartner
-Kryptographie als essentieller Baustein
+
+![Architekturunterschied](images/p2p.png)
+
+- Kommunikation direkt mit dem Kommunikationspartner
+- Kryptographie als essentieller Baustein
 
 Für Anwendungen im Web stehen gute APIs und Frameworks zu Verfügung. Im Folgenden ein paar Beispiele:
 - [WebRTC](https://webrtc.org/)
