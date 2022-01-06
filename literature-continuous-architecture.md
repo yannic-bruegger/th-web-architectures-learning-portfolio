@@ -40,7 +40,22 @@ Aus dem Anforderungskatalog werden die nicht funktionalen (qualitative) den funk
 
 - **Prinzip 6: Produktsicht**<br>
 
-## Nicht mehr verwendete Zusammenfassungen:
+
+
+## Glossar
+### Software product management
+> Software product management is the process of managing
+software that is built and implemented as a product, taking into
+account life-cycle considerations and generally with a wide
+audience. It is the discipline and business process which governs
+a product from its inception to the market or customer delivery
+and service in order to generate biggest possible value to the
+business. This is in contrast to software that is delivered in an ad
+hoc manner, typically to a limited clientele, e.g. service.
+
+
+<details>
+  <summary>Nicht mehr verwendete Zusammenfassungen</summary>
 
 Die Rolle der SoftwarearchitektInnen ist, wie viele andere Rollen in der Softwareentwicklung, nicht genau definiert. Oft werden SoftwarearchitektInnen als eine überflüssige Rolle angesehen. Die etwas zynische Frage: "Was machen/können SoftwarearchitektInnen, was EntwicklerInnen nicht könnten?" wird indirekt gestellt.
 
@@ -59,14 +74,4 @@ Es wird auch die historische Perspektive von Softwarearchitekturen betrachtet. D
 ![Technologie- und Architektur-Zeitleiste](images/technology-and-architecture-timeline.png)
 
 Zwischen agilen EntwicklerInnen, die frühstmögliche Umsetzung der Anfordeungen bevorzugen wollen und Enterprise ArchitektInnen, die einen möglichst 
-
-## Glossar
-### Software product management
-> Software product management is the process of managing
-software that is built and implemented as a product, taking into
-account life-cycle considerations and generally with a wide
-audience. It is the discipline and business process which governs
-a product from its inception to the market or customer delivery
-and service in order to generate biggest possible value to the
-business. This is in contrast to software that is delivered in an ad
-hoc manner, typically to a limited clientele, e.g. service.
+</details>
