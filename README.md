@@ -6,10 +6,10 @@ Diese Sammlung von Links verweist direkt auf Ergebnisse von Aufgaben. Alternativ
 
 ### Themenvorstellung
 - [Vorstellung zwei eigener Web-Projekte](vorstellung-eigene-projekte.md)
-- [Vorstellung einer Technologie, Konzept oder Pattern das einem bereits geholfen hat]()
-- [Vorstellung einer Technologie, Konzept oder Pattern das noch nicht verwendet wurde]()
-- [Vorstellung einer Technologie, Konzept oder Pattern in Verbindung mit einem wissenschaftlichen Paper]()
-- [Vorstellung des Exposés zum Vertiefungsthema]()
+- [Vorstellung einer Technologie, Konzept oder Pattern das einem bereits geholfen hat](vorstellung-used.md)
+- [Vorstellung einer Technologie, Konzept oder Pattern das noch nicht verwendet wurde](vorstellung-unused.md)
+- [Vorstellung einer Technologie, Konzept oder Pattern in Verbindung mit einem wissenschaftlichen Paper](vorstellung-paper.md)
+- [Vorstellung des Exposés zum Vertiefungsthema (NOT YET FINISHED)](#) 
 
 ### Literaturarbeit
 - [Literaturarbeit: *Internet Computing* von Ali Sunyaev]()
@@ -17,7 +17,7 @@ Diese Sammlung von Links verweist direkt auf Ergebnisse von Aufgaben. Alternativ
 - [Litearturarbeit: *Continuous architecture : Sustainable architecture in an agile and cloud-centric world*](literature-continuous-architecture.md)
 - [Literaturarbeit: *Four Internets: The Geopolitics of Digital Governance*]()
 - [Literaturarbeit: *Researching Internet Governance: Methods, Frameworks, Futures*]()
-- [Literaturarbeit: *CONTRACT FOR THE WEB*]()
+- [Literaturarbeit: *CONTRACT FOR THE WEB*](literature-contract-for-the-web.md)
 
 ## Vorlesungstermine
 Die folgenden Links sind chronologisch sortiert und führen zu kurzen Protokollen der Seminare mit den entsprechenden Aufgaben und Ergebnissen
